@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2g0028/krp/v1/juan/2
+seq: 2
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2g0028_WYG_002-1a, image: WYG0451/WYG0451-0051c.png}
+body:
+  text: 宋寶祐四年登科録卷二宋寶祐四年登科録卷二
+  hash: sha256:99758f5f4bd2c69ae2ab97019246a40b620548fd683ccb001a94227ace6f3a27
+metadata:
+  title: 宋寶祐四年登科錄
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:35:13.194638'
+  juan_title: 卷二
+  source:
+    repository: kanripo
+    path: KR2g0028/KR2g0028_002.txt
+hash: sha256:2969d726c3428f039c07219f24d5858c18c5e79a0e2e30b2b156ba1451481c58
